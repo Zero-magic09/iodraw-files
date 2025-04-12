@@ -143,6 +143,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-50" value="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-51" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
