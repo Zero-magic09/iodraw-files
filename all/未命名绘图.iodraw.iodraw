@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-8" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-9" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="165" width="60" height="30" as="geometry" />
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-31" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4uqtTUQ3wkV3G1ty1yU-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y4uqtTUQ3wkV3G1ty1yU-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
